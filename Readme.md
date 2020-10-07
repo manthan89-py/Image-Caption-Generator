@@ -3,6 +3,7 @@ You can also check for my blog on Image caption on medium and blogger.
 
 ( Note this both blog are same you can choose anyone)
 
+Dataset link is also available in this blog.
 
 Medium :- https://medium.com/@manthan.bhikadiya/automatic-image-captioning-using-deep-learning-5e899c127387
 
